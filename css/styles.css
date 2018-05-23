@@ -1,0 +1,27 @@
+body {
+  font-family: serif;
+  background-color: beige;
+}
+
+
+
+.pow {
+  color: red;
+  font-style: bolder;
+}
+
+
+.about {
+ font-size: 14px;
+ font-style: bold;
+ font-family: cursive;
+ color: maroon;
+ text-align: center;
+}
+
+table {
+  background-color: #333333;
+  text-align: left;
+  padding: 2px;
+  color: white;
+}
